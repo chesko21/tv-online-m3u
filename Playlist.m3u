@@ -2254,7 +2254,7 @@ https://linear-s.media.skyone.co.nz/sky-sport-3.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=79553de34321f11972a72b1e34620000:6f134b10fed345c8be29ab4b318ce502
-#https://linear-s.media.skyone.co.nz/sky-sport-4.mpd
+https://linear-s.media.skyone.co.nz/sky-sport-4.mpd
 
 #EXTINF:-1 tvg-id="sky.55" tvg-logo="https://iili.io/2Gf5Hsp.png" group-title="NZ SPORTS",Sky Sport 5
 #KODIPROP:inputstreamaddon=inputstream.adaptive
