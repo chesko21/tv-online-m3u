@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTM3U url-tvg="https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/starhubtv.xml, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://www.open-epg.com/files/malaysiapremium1.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/azimabid00/epg/main/astro_epg.xml, https://www.open-epg.com/files/india1.xml, https://www.open-epg.com/files/portugal.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://www.open-epg.com/files/unitedkingdom4.xml, https://www.open-epg.com/files/unitedstates3.xml, https://www.open-epg.com/files/mexico2.xml, https://www.open-epg.com/files/unitedstates4.xml, https://www.open-epg.com/files/australia1.xml, https://raw.githubusercontent.com/luizoliveira1970/epg/main/epg_ripper_BR1.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkyGo/epg.xml, https://www.open-epg.com/files/canada3.xml, https://www.open-epg.com/files/france.xml, https://www.open-epg.com/files/germany2.xml, https://www.open-epg.com/files/germany3.xml, https://www.open-epg.com/files/germany4.xml, https://www.open-epg.com/files/switzerland3.xml, https://raw.githubusercontent.com/soju6jan/epg2/main/file/xmltv_all2.xml, https://www.open-epg.com/files/ireland2.xml, https://raw.githubusercontent.com/Nomenteros/Nomentero_Epg/master/Nomenteroguide.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkySportNow/epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/PlutoTV/us.xml, https://raw.githubusercontent.com/skutyborsuk/IPTV/master/epg_v5.xml, https://www.open-epg.com/files/netherlands.xml, https://www.open-epg.com/files/turkey3, https://www.open-epg.com/files/italy1.xml, https://www.open-epg.com/files/argentina4.xml, https://www.open-epg.com/files/hongkong4.xml, https://www.open-epg.com/files/hongkong3.xml, https://www.open-epg.com/files/mexico.xml, https://www.open-epg.com/files/thailand.xml, https://www.open-epg.com/files/chile2.xml, https://www.open-epg.com/files/belgium.xml, https://www.open-epg.com/files/belgiumpremium.xml, https://www.open-epg.com/files/irelandpremium.xml, https://www.open-epg.com/files/uaepremium2.xml, https://www.open-epg.com/files/polandpremium.xml, https://www.open-epg.com/files/philippines1.xml, https://www.open-epg.com/files/philippines2.xml, https://www.open-epg.com/files/sportspremium1.xml, https://www.open-epg.com/files/koreapremium.xml" refresh="3600"
- 
+#EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
+
 ######################################################################TV CHANNELS#############################################################################################################################################
 
 #EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://iili.io/JMp36xI.png" group-title="NASIONAL",RCTI
@@ -5799,3 +5800,64 @@ https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="SPORTS2", Sony Ten 5
 https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/id.xml"
+ 
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent=Android-R+
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",GROUP-GENRE="Action",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="id",URI="https://raw.githubusercontent.com/Iqbalbala/SUBTILE/main/SubAdaytodie.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=4500000, RESOLUTION=1920x1080, SUBTITLES="subs" 
+https://wkmq.vizcloud.club/simple/EqPFIfMQWADtjDlGha7rC5Mu_lwU5PnpCAN7rqk+wYMnU94US2El/br/H4/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1800000, RESOLUTION=1280x720, SUBTITLES="subs" 
+https://wkmq.vizcloud.club/simple/EqPFIfMQWADtjDlGha7rC5Mu_lwU5PnpCAN7rqk+wYMnU94US2El/br/H3/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1200000, RESOLUTION=854x480, SUBTITLES="subs" 
+https://wkmq.vizcloud.club/simple/EqPFIfMQWADtjDlGha7rC5Mu_lwU5PnpCAN7rqk+wYMnU94US2El/br/H3/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=800000, RESOLUTION=640x360, SUBTITLES="subs" 
+https://wkmq.vizcloud.club/simple/EqPFIfMQWADtjDlGha7rC5Mu_lwU5PnpCAN7rqk+wYMnU94US2El/br/H3/v.m3u8
+
+#EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent=Android-R+
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",GROUP-GENRE="Action",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="id",URI="https://raw.githubusercontent.com/Iqbalbala/SUBTILE/main/Sub65.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=4500000, RESOLUTION=1920x1080, SUBTITLES="subs" 
+https://xmze.vizcloud.co/simple/EqPFIfMQWADtjDlGha7rC5Qu_FxY5Lu7TB57rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H4/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1800000, RESOLUTION=1280x720, SUBTITLES="subs" 
+https://xmze.vizcloud.co/simple/EqPFIfMQWADtjDlGha7rC5Qu_FxY5Lu7TB57rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H3/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1200000, RESOLUTION=854x480, SUBTITLES="subs" 
+https://xmze.vizcloud.co/simple/EqPFIfMQWADtjDlGha7rC5Qu_FxY5Lu7TB57rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H2/v.m3u8
+
+#EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent=Android-R+
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",GROUP-GENRE="Action",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="id",URI="https://raw.githubusercontent.com/Iqbalbala/SUBTILE/main/SubAgentgame.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=4500000, RESOLUTION=1920x1080, SUBTITLES="subs" 
+https://xmze.vizcloud.club/simple/EqPFIf8QWADtjDlGha7rC8Uuqlxbu7rvTw17rqk+wYMnU94US2El/br/H4/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1800000, RESOLUTION=1280x720, SUBTITLES="subs" 
+https://xmze.vizcloud.club/simple/EqPFIf8QWADtjDlGha7rC8Uuqlxbu7rvTw17rqk+wYMnU94US2El/br/H3/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1200000, RESOLUTION=854x480, SUBTITLES="subs" 
+https://xmze.vizcloud.club/simple/EqPFIf8QWADtjDlGha7rC8Uuqlxbu7rvTw17rqk+wYMnU94US2El/br/H3/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=800000, RESOLUTION=640x360, SUBTITLES="subs" 
+https://xmze.vizcloud.club/simple/EqPFIf8QWADtjDlGha7rC8Uuqlxbu7rvTw17rqk+wYMnU94US2El/br/H3/v.m3u8
+
+#EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent=Android-R+
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",GROUP-GENRE="Action",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="id",URI="https://raw.githubusercontent.com/Iqbalbala/SUBTILE/main/SubAllQuietontheWesternFront.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=4500000, RESOLUTION=1920x1080, SUBTITLES="subs" 
+https://mqmn.vizcloud.co/simple/EqPFJvsQWADtjDlGha7rC5cu+lxd_72wSAV7rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H4/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1800000, RESOLUTION=1280x720, SUBTITLES="subs" 
+https://mqmn.vizcloud.co/simple/EqPFJvsQWADtjDlGha7rC5cu+lxd_72wSAV7rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H3/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1200000, RESOLUTION=854x480, SUBTITLES="subs" 
+https://mqmn.vizcloud.co/simple/EqPFJvsQWADtjDlGha7rC5cu+lxd_72wSAV7rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H2/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=800000, RESOLUTION=640x360, SUBTITLES="subs" 
+https://mqmn.vizcloud.co/simple/EqPFJvsQWADtjDlGha7rC5cu+lxd_72wSAV7rqk+wYMnU94US2El_Po4w12gXe6GqtKNRtc_/br/H1/v.m3u8
+
+#EXT-X-VERSION:3
+#EXTVLCOPT:http-user-agent=Android-R+
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",GROUP-GENRE="Action",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,FORCED=NO,LANGUAGE="id",URI="https://raw.githubusercontent.com/Iqbalbala/SUBTILE/main/Subambulance.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=4500000, RESOLUTION=1920x1080, SUBTITLES="subs" 
+https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU94US2El/br/H4/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1800000, RESOLUTION=1280x720, SUBTITLES="subs" 
+https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU94US2El/br/H3/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=1200000, RESOLUTION=854x480, SUBTITLES="subs" 
+https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU94US2El/br/H3/v.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=800000, RESOLUTION=640x360, SUBTITLES="subs" 
+https://kayk.vizcloud.club/simple/EqPFIfwQWADtjDlGha7rC5YurFxcu+DpAkN7rqk+wYMnU94US2El/br/H3/v.m3u8
