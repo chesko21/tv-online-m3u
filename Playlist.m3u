@@ -640,36 +640,76 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
  
-#EXTINF:-1 tvg-id="392.astro" tvg-logo="https://iili.io/Jmo21Z7.png" group-title="KOREAN ENTERTAINMENT",KBS World
+#EXTINF:-1 tvg-id="392.astro" tvg-logo="https://iili.io/Jmo21Z7.png" group-title="JAPAN",KBS World
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
  
 #EXTINF:-1 tvg-id="Arirang - [Channel 351].id" tvg-logo="https://iili.io/Jmo2lu2.png" group-title="KOREAN ENTERTAINMENT",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
  
-#EXTINF:-1 tvg-id="396.astro" tvg-logo="https://iili.io/Jmo2MGe.png" group-title="KOREAN ENTERTAINMENT",K-Plus
+#EXTINF:-1 tvg-id="396.astro" tvg-logo="https://iili.io/Jmo2MGe.png" group-title="JAPAN",K-Plus
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h219/index.m3u8?c
  
-#EXTINF:-1 tvg-id="472.unifi" tvg-logo="https://iili.io/Jmo2ycG.png" group-title="JAPANESE ENTERTAINMENT",Animax
+#EXTINF:-1 tvg-id="472.unifi" tvg-logo="https://iili.io/Jmo2ycG.png" group-title="JAPAN",Animax
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/Animax/sa_dash_vmx/Animax.mpd
  
-#EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://iili.io/Jmo2bPn.png" group-title="JAPANESE ENTERTAINMENT",Aniplus
+#EXTINF:-1 tvg-id="Aniplus.id" tvg-logo="https://iili.io/Jmo2bPn.png" group-title="JAPAN",Aniplus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
  
-#EXTINF:-1 tvg-id="398.astro" tvg-logo="https://iili.io/Jmo2pFs.png" group-title="JAPANESE ENTERTAINMENT",NHK World Premium
+#EXTINF:-1 tvg-id="398.astro" tvg-logo="https://iili.io/Jmo2pFs.png" group-title="JAPAN",NHK World Premium
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://d1abp075u76pbq.cloudfront.net/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
- 
+
+#EXTINF:-1 group-title="JAPAN", NHK
+http://203.162.235.41:12091/
+#EXTINF:-1 group-title="JAPAN", NHK World Japan
+http://203.162.235.41:13092/
+#EXTINF:-1 group-title="JAPAN", NHK (no watermark)
+http://203.162.235.41:14093/
+#EXTINF:-1 group-title="JAPAN", Fuji TV
+http://203.162.235.41:15094/
+#EXTINF:-1 group-title="JAPAN", Nippon TV
+http://203.162.235.41:16095/
+#EXTINF:-1 group-title="JAPAN", TV Asahi
+http://203.162.235.41:17097/
+#EXTINF:-1 group-title="JAPAN", TBS
+http://203.162.235.41:18097/
+#EXTINF:-1 group-title="JAPAN", TV Tokyo
+http://203.162.235.41:19098/
+#EXTINF:-1 group-title="JAPAN", NHK BS1
+http://203.162.235.41:20099/
+#EXTINF:-1 group-title="JAPAN", BS Fuji TV
+http://203.162.235.41:22101/
+#EXTINF:-1 group-title="JAPAN", BS TV Tokyo
+http://203.162.235.41:23102/
+#EXTINF:-1 group-title="JAPAN", BS Nippon TV
+http://203.162.235.41:24103/
+#EXTINF:-1 group-title="JAPAN", NHK BS Premium (BSP)
+http://203.162.235.41:25104/
+#EXTINF:-1 group-title="JAPAN", BS-TBS
+http://203.162.235.41:26105/
+#EXTINF:-1 group-title="JAPAN", WOWOW
+https://raw.githubusercontent.com/thefirefox12537/streams/master/wowowlaip.m3u8
+#EXTINF:-1 group-title="JAPAN", WOWOW Prime A
+https://raw.githubusercontent.com/thefirefox12537/streams/master/wowowprem.m3u8
+#EXTINF:-1 group-title="JAPAN", WOWOW Prime B
+http://203.162.235.41:27106/
+#EXTINF:-1 group-title="JAPAN", WOWOW Sinema
+https://raw.githubusercontent.com/thefirefox12537/streams/master/wowowsinema.m3u8
+#EXTINF:-1 group-title="JAPAN", Golf Network
+http://203.162.235.41:28107/
+#EXTINF:-1 group-title="JAPAN", BS Asahi
+http://203.162.235.41:29108/
 #EXTINF:-1 tvg-id="E4 HD.uk" tvg-logo="https://iili.io/d9mg8Is.png" group-title="BRITISH ENTERTAINMENT",E4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
